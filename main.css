@@ -1,0 +1,20 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: space-between;
+  background-color: #1abc9c;
+  padding: 25px;
+  font-family: FuturaLT, Helvetica, sans-serif;
+}
+
+.nav a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.nav a:hover {
+  color: black;
+}
